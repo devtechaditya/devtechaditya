@@ -1,5 +1,5 @@
 ## About Me:
-<strong>Engineer in Progress | B.Tech CSE</strong> | Building Scalable Solutions with AI, Full-Stack Development & Cloud Technologies.<br>
+<strong>Engineer in Progress | B.Tech CSE | Building Scalable Solutions with AI, Full-Stack Development & Cloud Technologies.</strong><br>
 - <strong>Experience:</strong> Building hands-on projects focused on modern web development, AI-powered applications, and solving real-world problems through practical software engineering.<br>
 - <strong>Development:</strong> Developing responsive web applications, exploring full-stack technologies, and strengthening software development fundamentals through project-based learning.<br>
 - <strong>AI & Emerging Technologies:</strong> Exploring Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and modern AI tools to build intelligent applications and automate workflows.<br>

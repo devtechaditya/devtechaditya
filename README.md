@@ -1,12 +1,11 @@
 ## About Me:
-**Engineer in Progress | B.Tech CSE | Building Scalable Solutions with AI, Full-Stack Development & Cloud Technologies**<br><br>
-
-&bull; **Experience:** Building hands-on projects focused on modern web development, AI-powered applications, and solving real-world problems through practical software engineering.<br>
-&bull; **Development:** Developing responsive web applications, exploring full-stack technologies, and strengthening software development fundamentals through project-based learning.<br>
-&bull; **AI & Emerging Technologies:** Exploring Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and modern AI tools to build intelligent applications and automate workflows.<br>
-&bull; **Technical Stack:** HTML, CSS, JavaScript, React, Node.js, Python, SQL, Git & GitHub, Cloud Fundamentals, and modern development tools.<br>
-&bull; **Focus Areas:** Full-Stack Development, Artificial Intelligence, Machine Learning, Cloud Computing, DevOps, Cybersecurity, and Scalable Software Solutions.<br>
-&bull; **Currently Exploring:** Advanced AI & ML, DevOps practices, Cloud Platforms (AWS), System Design, Agentic AI, and scalable application architectures.
+<strong>Engineer in Progress | B.Tech CSE</strong> | Building Scalable Solutions with AI, Full-Stack Development & Cloud Technologies.<br>
+- <strong>Experience:</strong> Building hands-on projects focused on modern web development, AI-powered applications, and solving real-world problems through practical software engineering.<br>
+- <strong>Development:</strong> Developing responsive web applications, exploring full-stack technologies, and strengthening software development fundamentals through project-based learning.<br>
+- <strong>AI & Emerging Technologies:</strong> Exploring Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and modern AI tools to build intelligent applications and automate workflows.<br>
+- <strong>Technical Stack:</strong> HTML, CSS, JavaScript, React, Node.js, Python, SQL, Git & GitHub, Cloud Fundamentals, and modern development tools.<br>
+- <strong>Focus Areas:</strong> Full-Stack Development, Artificial Intelligence, Machine Learning, Cloud Computing, DevOps, Cybersecurity, and Scalable Software Solutions.<br>
+- <strong>Currently Exploring:</strong> Advanced AI & ML, DevOps practices, Cloud Platforms (AWS), System Design, Agentic AI, and scalable application architectures.<br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prodbyaditya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devtechaditya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/prodbyaditya_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya2004jaiswal@gmail.com) 

@@ -1,20 +1,15 @@
 ## About Me:
-**Engineer in Progress | B.Tech CSE | Building Scalable Solutions with AI, Full-Stack Development & Cloud Technologies**<br>
+**Engineer in Progress | B.Tech CSE | Building Scalable Solutions with AI, Full-Stack Development & Cloud Technologies**<br><br>
 
-&bull; **Experience:** Building hands-on projects focused on modern web development, AI-powered applications, and solving real-world problems through practical software engineering.<br>
-<br>
+&bull; **Experience:** Building hands-on projects focused on modern web development, AI-powered applications, and solving real-world problems through practical software engineering.<br><br>
 
-&bull; **Development:** Developing responsive web applications, exploring full-stack technologies, and strengthening software development fundamentals through project-based learning.<br>
-<br>
+&bull; **Development:** Developing responsive web applications, exploring full-stack technologies, and strengthening software development fundamentals through project-based learning.<br><br>
 
-&bull; **AI & Emerging Technologies:** Exploring Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and modern AI tools to build intelligent applications and automate workflows.<br>
-<br>
+&bull; **AI & Emerging Technologies:** Exploring Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and modern AI tools to build intelligent applications and automate workflows.<br><br>
 
-&bull; **Technical Stack:** HTML, CSS, JavaScript, React, Node.js, Python, SQL, Git & GitHub, Cloud Fundamentals, and modern development tools.<br>
-<br>
+&bull; **Technical Stack:** HTML, CSS, JavaScript, React, Node.js, Python, SQL, Git & GitHub, Cloud Fundamentals, and modern development tools.<br><br>
 
-&bull; **Focus Areas:** Full-Stack Development, Artificial Intelligence, Machine Learning, Cloud Computing, DevOps, Cybersecurity, and Scalable Software Solutions.<br>
-<br>
+&bull; **Focus Areas:** Full-Stack Development, Artificial Intelligence, Machine Learning, Cloud Computing, DevOps, Cybersecurity, and Scalable Software Solutions.<br><br>
 
 &bull; **Currently Exploring:** Advanced AI & ML, DevOps practices, Cloud Platforms (AWS), System Design, Agentic AI, and scalable application architectures.
 ## Socials:
